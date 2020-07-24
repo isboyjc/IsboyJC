@@ -17,7 +17,9 @@ I am isboyjc, One front end!!!
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=Vue.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Node](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=node&logoColor=%23ffffff)
+![Node](https://img.shields.io/badge/-Node-%23F05032?style=flat-square&logo=Node.js&logoColor=%23ffffff)
+![Deno](https://img.shields.io/badge/-Deno-%231572B6?style=flat-square&logo=deno)
+![Cesium](https://img.shields.io/badge/-Cesium-%232c3e50?style=flat-square&logo=cesium)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
