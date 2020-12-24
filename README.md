@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am isboyjc, One front end developer!!!
+I am isboyjc, or 句末, One front end developer!!!
 
 ## Contact me
 
