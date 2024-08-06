@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-I am isboyjc, or 句末, One front end developer!!!
+I am isboyjc. One front end developer!!!
 
 ## Contact me
 
 - Blog: [Blog Portal](https://github.com/isboyjc/blog)
 
-- Email: 214930661@qq.com
-
-- WeChat: lijianchao666
+- Email: isboyjc@gmail.com | 214930661@qq.com
 
 ## Teck Stack
 
