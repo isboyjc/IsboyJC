@@ -4,8 +4,6 @@ I am isboyjc. One front end developer!!!
 
 ## Contact me
 
-- Blog: [Blog Portal](https://github.com/isboyjc/blog)
-
 - Email: isboyjc@gmail.com | 214930661@qq.com
 
 ## Teck Stack
