@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I am isboyjc. One front end developer!!!
+I am isboyjc. Full-stack developer.
 
 ## Contact me
 
-- Email: isboyjc@gmail.com | 214930661@qq.com
-
+- Email: isboyjc@gmail.com
 ## Teck Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
